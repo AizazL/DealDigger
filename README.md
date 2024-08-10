@@ -1,4 +1,6 @@
-# Amazon-Web-Scraper
+# DealDigger
+![DealDigger](https://github.com/user-attachments/assets/272c59c9-f61b-4e30-b741-7974a23369ef)
+
 Scrapes and filters Amazon listings based on a query, search filter, and price filter. Returns data in an excel sheet.
 Programmed in Python, utilizing the following libraries:
 
