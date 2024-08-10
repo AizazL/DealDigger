@@ -4,6 +4,8 @@
 
 **DealDigger** is a Python-based Amazon web scraper designed to efficiently scrape and filter Amazon listings based on a user-defined query, search filter, and price filter. The tool returns the filtered data in an Excel sheet, providing a streamlined way to find the best deals.
 
+> **Disclaimer**: This project is now deprecated and is no longer actively maintained. While it may still function, it is recommended to use more up-to-date tools or methods for web scraping as Amazon's website structure and anti-scraping measures may have changed.
+
 ## Features
 
 - **Custom Query**: Scrapes Amazon listings based on a specified search query.
